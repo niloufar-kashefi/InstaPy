@@ -42,6 +42,12 @@ with smart_run(session):
   # Joining Engagement Pods
   #session.join_pods(topic='cryptocurrency', engagement_mode='no_comments')
 
+"""Once you have your quickstart script configured you can execute the script with the following commands.
+
+python quickstart.py
+-- or
+python quickstart.py --username abcd --password 1234"""
+
 
 
 
